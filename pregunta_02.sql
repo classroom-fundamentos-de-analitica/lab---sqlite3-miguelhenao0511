@@ -18,3 +18,5 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 -- 
+-- USE data_science;
+SELECT COUNT(*) FROM tbl1;
