@@ -43,3 +43,6 @@
 -- 
 --  >>> Escriba su codigo a partir de este punto <<<
 --
+--USE data_science;
+SELECT * FROM tbl1 WHERE k0 NOT like 'A%' and k0 NOT like 'B%' and c13 != 200 and c13 != 900 ORDER BY c14;
+    

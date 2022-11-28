@@ -41,3 +41,5 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 --  
+--USE data_science;
+SELECT * FROM tbl0 WHERE c02=100 or c02=600;

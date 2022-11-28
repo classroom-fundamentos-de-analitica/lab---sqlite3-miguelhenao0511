@@ -17,3 +17,5 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 --
+--USE data_science;
+SELECT SUM(c12) FROM tbl1;

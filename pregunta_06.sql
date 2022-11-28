@@ -43,3 +43,5 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 -- 
+--USE data_science;
+SELECT * FROM tbl1 WHERE k0 like 'A%' ORDER BY c14;

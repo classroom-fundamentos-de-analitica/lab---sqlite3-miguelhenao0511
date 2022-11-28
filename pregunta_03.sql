@@ -22,3 +22,5 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 --  
+--USE data_science;
+SELECT * FROM tbl1 ORDER BY c14 LIMIT 5;
